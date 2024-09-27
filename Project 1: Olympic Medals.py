@@ -5,12 +5,6 @@ Project 1
 
 The program calculates n the number of medals a specific country won in the Olympics and the relative success of the different sports.
 
-Document Assistance:
-    https://www.geeksforgeeks.org/check-multiple-conditions-in-if-statement-python/
-    I looked up how to add multiple conditions in 1 if statement.
-    
-    I gave assistance to Chau Tran about the multiple conditions in if statement on this project.
-
 """
 def main():
     # get input from the user
