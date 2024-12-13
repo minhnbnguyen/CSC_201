@@ -1,7 +1,6 @@
 '''
 Name(s): Minh Nguyen
 CSC 201
-Lab 8
 
 The program displays a virtual aquarium with animated fish and floating bubbles.
 It utilizes a Fish and Bubble class.
