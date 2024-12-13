@@ -1,5 +1,5 @@
 '''
-Name(s): Minh Nguyen and Duy Luong
+Name(s): Minh Nguyen
 CSC 201
 Project 3
 
