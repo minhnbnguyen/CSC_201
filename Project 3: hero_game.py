@@ -14,11 +14,6 @@ Bonus points:
 1. Main menu, instructions menu and quit button
 2. Background music: we used playsound package. It runs perfectly on Mac. However, we may receive an error in the Shell on Window.
 The code should still run on both systems.
-
-Assistance document:
-    We searched google to import the playsound package and its syntax.
-    
-    We helped Chau Tran, Samyam Bista, and Nhi Nguyen to import the playsound package.
 '''
 
 from graphics2 import *
